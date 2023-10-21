@@ -63,7 +63,7 @@ body {
 }
 .comingsoon__heading {
     text-transform: uppercase;
-    letter-spacing: .5rem;
+    letter-spacing: 1rem;
     font-size: 4rem;
     font-weight: var(--fw-semiBold);
 }
